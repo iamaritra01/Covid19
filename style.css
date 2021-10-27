@@ -278,7 +278,7 @@ a:hover {
 }
 
 .Team .card .card-body img {
-  height: 30vh;
+  height: 20vh;
 }
 
 .contact {
@@ -357,7 +357,7 @@ a:hover {
 }
 
 .blogs .card .card-body img {
-  height: 60vh;
+  height: 10vh;
   margin-bottom: 2rem;
   -webkit-transition: 0.4s linear;
   transition: 0.4s linear;
